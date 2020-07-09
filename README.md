@@ -1,1 +1,1 @@
-# pchopinet
+# Pierre Chopinet
