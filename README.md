@@ -11,9 +11,9 @@ Building things with Java, Python, and TypeScript. Big fan of clean APIs and tra
 **Backend** · Java / Spring Boot · Python / Django  
 **Frontend** · TypeScript / React  
 **Databases** · PostgreSQL · MySQL · SQLite  
-**Also** · Docker · REST APIs · TrinoDB
+**Also** · Docker · Kubernetes · REST APIs · TrinoDB
 
-![Skills](https://skillicons.dev/icons?i=java,spring,python,django,ts,react,postgres,mysql,sqlite,docker)
+![Skills](https://skillicons.dev/icons?i=java,spring,python,django,ts,react,postgres,mysql,sqlite,docker,kubernetes)
 
 ---
 
