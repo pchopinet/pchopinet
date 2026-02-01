@@ -1,3 +1,45 @@
 # Pierre Chopinet :train2: 
 
-[![pchopinet's GitHub stats](https://github-readme-stats.vercel.app/api?username=pchopinet&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+**Full-stack developer from Paris, France**
+
+Building things with Java, Python, and TypeScript. Big fan of clean APIs and trains.
+
+---
+
+### What I work with
+
+**Backend** · Java / Spring Boot · Python / Django  
+**Frontend** · TypeScript / React  
+**Databases** · PostgreSQL · MySQL · SQLite  
+**Also** · Docker · REST APIs · TrinoDB
+
+![Skills](https://skillicons.dev/icons?i=java,spring,python,django,ts,react,postgres,mysql,sqlite,docker)
+
+---
+
+### Stats
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pchopinet&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pchopinet&theme=tokyonight" />
+</p>
+
+<img src="https://streak-stats.demolab.com?user=pchopinet&theme=tokyonight&hide_border=true" />
+
+---
+
+### Current vibes
+
+```text
+🚄 Train
+🍵 Powered by tea
+🔧 Probably debugging something right now
+```
+
+---
+
+<p>
+  <a href="https://linkedin.com/in/pchopinet"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<sub>🇫🇷 Paris · Open to interesting projects</sub>
