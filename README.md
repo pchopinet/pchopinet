@@ -2,7 +2,7 @@
 
 **Full-stack developer from Paris, France**
 
-Building things with Java, Python, and TypeScript. Big fan of clean APIs and trains.
+Building things with Java, Python, and TypeScript. Big believer in KISS, clean APIs, and the idea that premature optimization is the root of all evil. Also into trains.
 
 ---
 
