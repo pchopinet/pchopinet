@@ -39,6 +39,7 @@ Building things with Java, Python, and TypeScript. Big fan of clean APIs and tra
 ---
 
 <p>
+  <a href="https://blog.jaaj.dev"><img src="https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white" /></a>
   <a href="https://linkedin.com/in/pchopinet"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
