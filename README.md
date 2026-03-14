@@ -18,11 +18,11 @@ Building things with Java, Python, and TypeScript. Fan of "Keep It Simple Stupid
 ---
 
 ### Stats
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pchopinet&theme=tokyonight" />
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pchopinet&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pchopinet&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=pchopinet&theme=tokyonight&hide_border=true" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pchopinet&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pchopinet&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pchopinet&theme=transparent" />
+  <img src="https://streak-stats.demolab.com?user=pchopinet&theme=transparent&hide_border=true" />
 </p>
 
 
